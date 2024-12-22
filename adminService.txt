@@ -1,0 +1,4 @@
+add and remove user
+change the roles
+
+login and logout
